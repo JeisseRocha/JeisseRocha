@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- ✨ My name is [Jeisse Rocha](http://www.jeisserocha.com/)
+- 🌱 I’m currently studying Cloud Computhing on National College of Ireland
+- 📫 How to reach me: jeisserocha@gmail.com
+
+
+
 <!--
 **JeisseRocha/JeisseRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
